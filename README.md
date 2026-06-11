@@ -4,12 +4,6 @@
 
 ---
 
-## 📁 File
-
-```
-wc2026_predictor.html
-```
-
 A single HTML file. No installation, no server, no internet required. Just open it in any modern browser.
 
 ---
